@@ -1,0 +1,10 @@
+{
+      "name": "watermyplants-be",
+      "version": "1.0.0",
+      "description": "backend", 
+      "main": "index.js",
+      "scripts": {
+            "server": "nodemon index.js",
+            "start": "node index.js"  
+      }
+}
